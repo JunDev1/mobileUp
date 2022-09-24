@@ -6,4 +6,5 @@
 <h4>Шаг 1:</h4>
 <h4>Создание 1 Activity, который будет являться основным для фрагментов.</h4>
 <img src = "https://user-images.githubusercontent.com/86519269/192108053-67bdd60e-2757-4407-8e23-e5a1246d754b.png"/>
-<h4>Используемые View компоненты: AppToolbar + ChipGroup + TextView && View (для создания теневого эффекта) && FragmentContainerView</h4>
+<h4>Используемые View компоненты: AppToolbar + ChipGroup + TextView && View (для создания теневого эффекта) && FragmentContainerView.</h4>
+<h4>Дополнительно был создан новый стиль в папке styles под названием CustomChipStyle, который меняет цвет Chip в зависимости от взаимодействия с ним.</h4>
