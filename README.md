@@ -5,4 +5,5 @@
 <h4>Порядок выполнения работы:</h4>
 <h4>Шаг 1:</h4>
 <h4>Создание 1 Activity, который будет являться основным для фрагментов.</h4>
-<img src = "https://user-images.githubusercontent.com/86519269/192107838-9df592dd-ce75-4859-8ec6-7b85d9cd0c4d.png"/>
+<img src = "https://user-images.githubusercontent.com/86519269/192108053-67bdd60e-2757-4407-8e23-e5a1246d754b.png"/>
+<h4>Используемые View компоненты: AppToolbar + ChipGroup + TextView && View (для создания теневого эффекта) && FragmentContainerView</h4>
